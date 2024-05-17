@@ -8,4 +8,4 @@
 - 💬 Ask me about flying, sailing, Docker, Linux, Python
 - 📫 How to reach me: andras [at] drfekete [dot] net
   
-[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoff.ee/bandi13)
+[<img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height=36>](https://www.buymeacoff.ee/bandi13) or [<img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" height=36>](https://ko-fi.com/bandi13)
